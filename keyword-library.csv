@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game download,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 game download Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9 download apk,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 install unknown app source,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 download not working after register,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 Access Center support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 Access Center FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 download Pakistan,category,P1,hub/category,/download/,2026-06-28,sop-full-audit
+11,s9 android install Pakistan,category,P1,hub/category,/android-install/,2026-06-28,sop-full-audit
+12,s9 apk access Pakistan,category,P1,hub/category,/apk-access/,2026-06-28,sop-full-audit
+13,s9 browser warning Pakistan,category,P1,hub/category,/browser-warning/,2026-06-28,sop-full-audit
+14,s9 source check Pakistan,category,P1,hub/category,/source-check/,2026-06-28,sop-full-audit
+15,how to download s9 game in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,why s9 game download is not opening,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,how to fix s9 download failed after register,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,is s9 download safe before install,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,which browser should open s9 download link,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+20,s9 download page vs register page,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 game download vs super s9 game,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,s9 apk source comparison,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+23,s9 game download PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game download Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game download mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game download H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game download 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game download guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game download checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game download fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game download not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game download latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game download support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 game download Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 game download Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 game download Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 game download Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 game download Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 game download Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 game download Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 game download Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 game download Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 game download Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 game download Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 game download Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9 download apk Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9 download apk PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9 download apk Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9 download apk mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9 download apk H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9 download apk 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9 download apk guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9 download apk checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9 download apk fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9 download apk not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9 download apk latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9 download apk support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 install unknown app source Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 install unknown app source PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 install unknown app source Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 install unknown app source mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 install unknown app source H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 install unknown app source 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 install unknown app source guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 install unknown app source checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 install unknown app source fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 install unknown app source not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 install unknown app source latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 install unknown app source support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 download not working after register Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 download not working after register PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 download not working after register Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 download not working after register mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 download not working after register H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 download not working after register 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 download not working after register guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 download not working after register checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 download not working after register fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 download not working after register not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 download not working after register latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit

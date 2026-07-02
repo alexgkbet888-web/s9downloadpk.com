@@ -1,0 +1,25 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://s9downloadpk.com/sitemap.xml
+
+User-agent: *
+
+
+User-agent: *
+
+
+User-agent: *
+
+
+User-agent: *
+
+
+User-agent: *
+
+
+User-agent: *
+
+
+User-agent: *
+
